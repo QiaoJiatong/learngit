@@ -1,1 +1,1 @@
-hello child
+git remote add origin git@github.com:QiaoJiatong/learngit2.git
